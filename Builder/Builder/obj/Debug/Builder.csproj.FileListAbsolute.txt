@@ -1,0 +1,7 @@
+C:\Users\naima\source\repos\Builder\Builder\bin\Debug\Builder.exe.config
+C:\Users\naima\source\repos\Builder\Builder\bin\Debug\Builder.exe
+C:\Users\naima\source\repos\Builder\Builder\bin\Debug\Builder.pdb
+C:\Users\naima\source\repos\Builder\Builder\obj\Debug\Builder.csproj.AssemblyReference.cache
+C:\Users\naima\source\repos\Builder\Builder\obj\Debug\Builder.csproj.CoreCompileInputs.cache
+C:\Users\naima\source\repos\Builder\Builder\obj\Debug\Builder.exe
+C:\Users\naima\source\repos\Builder\Builder\obj\Debug\Builder.pdb
